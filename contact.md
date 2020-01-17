@@ -2,17 +2,19 @@
 description: 賈誌翔的联系方式
 ---
 
-# 联系方式
+# 怎样找到我？
 
-|               微信               |        小程序        |
+> 邮箱联系我：zhixiang.jia@foxmail.com
+
+<!-- |               微信               |        小程序        |
 | :------------------------------: | :------------------: |
-| ![](assets/contact/Wechat_.jpeg) | ![](assets/xcx.jpeg) |
+| ![](assets/contact/Wechat_.jpeg) | ![](assets/xcx.jpeg) | -->
 
 # 支持我
 
 |           微信            |         支付宝         |
 | :-----------------------: | :--------------------: |
-| ![](assets/wechatpay.jpg) | ![](assets/alipay.jpg) |
+| ![](assets/pay/wechatpay.jpg) | ![](assets/pay/alipay.jpg) |
 
 **特别说明：**
 

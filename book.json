@@ -9,21 +9,13 @@
         "yahei",
         "github",
         "autotheme",
-        "search-plus",
-        "prism",
         "github-buttons",
         "splitter",
-        "sharing-plus",
         "tbfed-pagefooter",
         "expandable-chapters-small",
         "book-summary-scroll-position-saver",
         "donate",
-        "anchors",
-        "anchor-navigation-ex",
-        "sitemap-general",
-        "copy-code-button",
-        "multipart",
-        "sectionx"
+        "copy-code-button"
     ],
     "pluginsConfig": {
         "theme-default": {
