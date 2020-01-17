@@ -1,0 +1,155 @@
+{
+    "gitbook":"3.x.x",
+    "plugins":[
+        "-lunr",
+        "-search",
+        "-sharing",
+        "-highlight",
+        "favicon",
+        "yahei",
+        "github",
+        "autotheme",
+        "search-plus",
+        "prism",
+        "github-buttons",
+        "splitter",
+        "sharing-plus",
+        "tbfed-pagefooter",
+        "expandable-chapters-small",
+        "book-summary-scroll-position-saver",
+        "donate",
+        "anchors",
+        "anchor-navigation-ex",
+        "sitemap-general",
+        "copy-code-button",
+        "multipart",
+        "sectionx"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "fontSettings": {
+            "family": "serif",
+            "size": 2
+        },
+        "github": {
+            "url": "https://github.com/jiaxiaochu"
+        },
+        "autotheme": {
+            "white": [9, 10, 11, 12, 13, 14, 15, 16, 17],
+            "sepia": [6, 7, 8, 18, 19],
+            "night": [20, 21, 22, 23, 0, 1, 2, 3, 4, 5]
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        },
+        "sectionx":{
+           "标签": "Show"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "jiaxiaochu",
+                "repo": "python-data-analysis",
+                "type": "star",
+                "size": "small"
+            }]
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "douban", "weibo", "qzone","qq"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy <a href='http://www.jiazhixiang.xyz/' target='_blank'>賈誌翔</a> 2020 ",
+            "modify_label": "文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+            "wechat": "/assets/pay/wechatpay.png",
+            "alipay": "/assets/pay/alipay.png",
+            "title": "觉得这些信息对你有帮助？ 不妨打赏我一下，请我喝杯咖啡!",
+            "button": "赞赏支持",
+            "alipayText": "支付宝支持",
+            "wechatText": "微信支持"
+        },
+        "anchor-navigation-ex": {
+            "showLevel": true,
+            "associatedWithSummary": false,
+            "printLog": false,
+            "multipleH1": true,
+            "mode": "float",
+            "showGoTop": true,
+            "float": {
+                "floatIcon": "fa fa-navicon",
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            },
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        },
+        "sitemap-general": {
+            "prefix": "https://jiaxiaochu.gitee.io/myBook/"
+        },
+        "favicon": {
+            "shortcut": "assets/images/color_cat.ico",
+            "bookmark": "assets/images/color_cat.ico",
+            "appleTouch": "assets/images/color_cat.jpg",
+            "appleTouchMore": {
+                "120x120": "assets/images/color_cat.jpg",
+                "180x180": "assets/images/color_cat.jpg"
+            }
+        }
+    },
+    "pdf": {
+        "pageNumbers": true,
+        "fontFamily": "Arial",
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 56,
+            "bottom": 56
+        }
+    },
+    "title": "吹花小筑工作室",
+    "description": "吹花小筑工作室",
+    "author": "賈誌翔",
+    "language": "zh-hans",
+    "root": ".",
+    "structure": {
+        "readme": "introduction.md"
+    },
+    "links": {
+        "sidebar": {
+            "GitHub": "https://github.com/jiaxiaochu",
+            "个人博客": "http://www.jiazhixiang.xyz/"
+        }
+    }
+}
