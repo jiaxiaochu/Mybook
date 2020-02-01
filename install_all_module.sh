@@ -19,3 +19,4 @@ npm install gitbook-plugin-sitemap-general -g
 npm install gitbook-plugin-copy-code-button -g
 npm install gitbook-plugin-mygitalk -g
 npm install gitbook-plugin-multipart -g
+npm install gitbook-plugin-anchor-navigation-ex-toc -g
